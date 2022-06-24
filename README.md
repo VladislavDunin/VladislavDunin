@@ -24,6 +24,8 @@
 ## Test-tracking systems:
 [![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail)]()
 
+## Other tools:
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence)
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/VladislavDunin)
