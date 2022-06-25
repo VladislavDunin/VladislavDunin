@@ -1,8 +1,7 @@
-## **Hello👋 people/world ;) My name is Vladislav Dunin and i'm a beginner QA Engineer** 
-
-### This is my profile for demonstration my [Hard Skills](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-) . In my repository has: my test documentation , home works on course QA by Vadim Ksendzov , practice and training in free time , my sertificates and more . I will be happy if you check my repository!)
+# Hello👋 people/world ;) My name is Vladislav Dunin and i'm a beginner QA Engineer
+### This is my profile for demonstration my [Hard Skills](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-) . In my repository has: my test documentation , home works on courses QA  , practice and training in free time , my sertificates and more . I will be happy if you check my repository!)
 ## My education : 
-### I study on QA course by Vadim Ksendzov and  have a [certificate](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/blob/main/Sertificates/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F.%20Web%2C%20Mobile%2C%20Postman%2C%20SQL%2C%20Git%2C%20Bash.pdf) from the courses QA by Artem Rusov on Udemy
+### I study on QA course by Vadim Ksendzov and  have a [certificate](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/blob/main/Sertificates/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F.%20Web%2C%20Mobile%2C%20Postman%2C%20SQL%2C%20Git%2C%20Bash.pdf) from the courses QA by Artem Rusov on Udemy.
 -------------------------------------------------
 ## **My test documentation:**
 [![GoogleSheets](https://img.shields.io/badge/-Checklists_And_Bug_reports-090909?style=for-the-badge&logo=GoogleSheets)](https://drive.google.com/drive/folders/1AjG6qMTcGRlQA_n82bzTIOfA3e9qLPQp)
@@ -22,12 +21,14 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 
 
+
 ## **Test-tracking systems:**
 [![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail)]()
 
 ## Other tools:
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence)
 
+---------------------
 ### **Connect with me:**
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/VladislavDunin)
 [![Vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK)](https://vk.com/alfameister)
