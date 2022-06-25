@@ -9,7 +9,7 @@
 ##  I explore those tools as a beginner:
 [![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/POSTMAN)
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/Terminal%20home%20work%20and%20practice)
-<img  src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/chrome-devtools-16x9_720%20(1).png" width = "100" />
+<img  src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/chrome-devtools-16x9_720%20(1).png" width = "25" />
 [![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles)]()
 [![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter)]()
 
