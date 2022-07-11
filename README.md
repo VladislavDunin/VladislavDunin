@@ -13,9 +13,8 @@
 [![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/POSTMAN)
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/Terminal%20home%20work%20and%20practice)
 [<img src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/jmeter_square.svg" width = "50" height = "50" />](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/JMeter)
-<img  src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/chrome-devtools-16x9_720%20(1).png" width = "50" />
-<img  src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" width = "28" />
-
+[<img  src = "https://github.com/VladislavDunin/VladislavDunin/blob/main/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" width = "28" />](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/Charles)
+<img src= "https://github.com/VladislavDunin/VladislavDunin/blob/main/chrome-devtools-16x9_720%20(1).png" width = "50" height = "50" />
 
 ## **Learning languages:**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/JavaScript%20homework%20and%20practice) 
