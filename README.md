@@ -5,6 +5,7 @@
 ### In my free time im study at course QA by Mikhail Portnov.
 -------------------------------------------------
 ## **My test documentation:**
+[![Educational project](https://img.shields.io/badge/-Test_cases+my_educational_project-090909?style=for-the-badge&logo=GoogleSheets)](https://drive.google.com/drive/folders/1O8LGtJ867jw8ybY2BEL7y_DyZExWXSF3)
 [![GoogleSheets](https://img.shields.io/badge/-Checklists+bug_reports-090909?style=for-the-badge&logo=GoogleSheets)](https://drive.google.com/drive/folders/1AjG6qMTcGRlQA_n82bzTIOfA3e9qLPQp)
 [![GoogleSheets_2](https://img.shields.io/badge/-bug_reports-090909?style=for-the-badge&logo=GoogleSheets)](https://drive.google.com/drive/folders/1ccDu6rw5ryOKYIzTbJBDBtEuOUvGkDYg)
 
