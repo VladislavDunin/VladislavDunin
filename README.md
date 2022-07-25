@@ -19,7 +19,7 @@
 
 ## **Learning languages:**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/JavaScript%20homework%20and%20practice) 
-[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL)]()
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=MySQL)](https://github.com/VladislavDunin/My-testing-practice-checklists-bug-reports-and-home-work-/tree/main/SQL)
 
 ## **Bug-tracking systems:**
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
